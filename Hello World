@@ -1,3 +1,1 @@
-#Hello World
-
-Oh boy! I suck
+print("Hello World")
